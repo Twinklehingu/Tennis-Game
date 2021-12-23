@@ -7,9 +7,13 @@ This project is developed using JavaScript and HTML5.
 
 
 
-How to run this project? Download the repository and open the html file in the browser by double clicking on it.  
+How to run this project? 
 
-Project Reference: Udemy Course by Chris DeLeon : https://www.udemy.com/course/code-your-first-game/
+Download the repository and open the html file in the browser by double clicking on it.  
+
+Project Reference: 
+
+Udemy Course by Chris DeLeon : https://www.udemy.com/course/code-your-first-game/
 
 
 
